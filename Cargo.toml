@@ -1,0 +1,10 @@
+[package]
+name = "lighterror"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+polars = "0.45.1"
+svg = "0.18.0"
+thiserror = "2.0.9"
+anyhow = "1.0.95"

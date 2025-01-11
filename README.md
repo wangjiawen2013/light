@@ -7,5 +7,5 @@ Light is a drawing library designed for rendering figures, plots, and charts, in
 
 Light is very much a work in progress, so suggestions for new tools, features and capabilities is very much welcome, as are contributions as PRs.
 
-# License
-This project is licensed under the [MIT license](https://github.com/wangjiawen2013/pypies/blob/main/LICENSE)
+### License
+This project is licensed under the [MIT license](https://github.com/wangjiawen2013/pypies/blob/main/LICENSE).

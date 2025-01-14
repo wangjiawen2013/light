@@ -1,4 +1,4 @@
-pub chart;
+pub mod chart;
 pub mod coord;
 pub mod encoding;
 pub mod error;
